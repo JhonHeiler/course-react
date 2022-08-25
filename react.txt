@@ -1,0 +1,5 @@
+npm install -g expo-cli -->  funcione el framework
+npm install axios -- peticiones
+npm install react-native-easy-grid  --->  organizar caja 
+
+view - div

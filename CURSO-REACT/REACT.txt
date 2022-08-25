@@ -1,0 +1,36 @@
+CREACION DE PROYECTO REACT
+
+1.UBICACION DONDE LO QUIERES CREAR 
+-create-react-app cursoreact
+2.COMANDOS
+npm start  = LEVANTAMOS UN SERVIDOR NODE.JS Y PROBARLO LO QUE ESTEMOS PROGRAMANDO
+
+npm run build= GENERA EL CODIGO HTML, CSS Y JS FINAL QUE VAMOS A ULTILIZAR EN NUESTRO PROYECTO EN PRODUCION
+
+3.INGRESAMOS A LA CARPETA NUESTRO PROYECTO
+cd nombre proyecto
+
+npm start = PARA LEVANTAR EL SERVIDOR Y MIRAR EN REALIDAD QUE ESTAMOS HACIENDO
+
+3.modificar el html
+npm start = PARA LEVANTAR EL SERVIDOR Y MIRAR EN REALIDAD QUE ESTAMOS HACIENDO
+
+4. NOS SALE DOS RED
+  Local:            http://localhost:3000        
+  On Your Network:  http://192.168.43.186:3000  = PARA INGRESAR DESDE CUALQUIER DISPOSITIVO Y PROBAR 
+5.PARA FRENAR EL SERVIDOR
+-control y la letra C == de esta forma se va a cortar 
+luego Y == tiramos el servidor
+
+6.PARA EXPORTAR IMAGEN INSTALAR LIBRERIA 
+ npm install --save html2canvas
+
+import html2canvas from 'html2canvas'=IMPORTARLA
+
+7. PARA CAMBIAR DE PAGINA
+
+npm install react-router-dom
+
+8. MATERIAL DESING - documentacion
+diseño por defecto creado por google -- accessible para todas las personas
+LIBRERIA JS: MATERIAL-UI.COM -----IONIC_FRAMEWORK
